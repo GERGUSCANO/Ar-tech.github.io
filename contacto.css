@@ -32,7 +32,20 @@ body{
     
 
 }
-
+header{
+    /*margin: 0%;
+    padding: 0%;
+    position: fixed;
+    width: 100%;*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+main{
+    padding-top: 10vh;
+}
 #contacto{
     background-color: #d5d6da;
 }
