@@ -1,11 +1,18 @@
 # GPO11_PROGRAMACION
+
 ## TRABAJO PRACTICO INTEGRADOR
 
+### link ingreso landing page: 
+
+### [https://gerguscano.github.io/gerguscano.github.io-Ar-tech/](https://gerguscano.github.io/gerguscano.github.io-Ar-tech/)
+
 ### Objetivo
+
 Concretar un proyecto aplicando los conocimientos impartidos a lo largo del curso, con la
 finalidad de agregarlo a sus portfolios personales.
 
 ### Enunciado
+
 Desarrollar una landing page para una organización/emprendimiento/empresa
 (rubro/actividad a elección del estudiante) que cumpla, mínimamente, con los siguientes
 requisitos:
@@ -28,7 +35,6 @@ requisitos:
     ○ Consumo de API Externa a través de AJAX
     ○ Visualización de los Resultados Obtenidos
 
-
 ## Tecnologías a utilizad
 
 ●  HTML
@@ -37,19 +43,16 @@ requisitos:
 
 ## Paso a paso sugerido
 
-1.  Definir Wireframes y Bocetos del Sitio
-2.  Generar Repositorio Git
-3.  Generar Maquetas
-4.  Pruebas de Concepto de las Librerías
-5.  IMplementación de JS
-6.  Pruebas de Interación
-  
-
-
+1. Definir Wireframes y Bocetos del Sitio
+2. Generar Repositorio Git
+3. Generar Maquetas
+4. Pruebas de Concepto de las Librerías
+5. IMplementación de JS
+6. Pruebas de Interación
 
 ### Algunas sugerencias
 
-1.  Probar cada biblioteca de Javascript por separado
-2.  Crear un formulario simple agregando funcionalidades de distintas bibliotecas con el
-objetivo de tener un proceso de aprendizaje significativo iterativo-incremental.
-3.  ¡Paciencia!
+1. Probar cada biblioteca de Javascript por separado
+2. Crear un formulario simple agregando funcionalidades de distintas bibliotecas con el
+   objetivo de tener un proceso de aprendizaje significativo iterativo-incremental.
+3. ¡Paciencia!
