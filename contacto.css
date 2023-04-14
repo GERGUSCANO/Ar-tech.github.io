@@ -29,23 +29,20 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 1.1rem;
     color: black;
-    
-
 }
+
 header{
-    /*margin: 0%;
-    padding: 0%;
-    position: fixed;
-    width: 100%;*/
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 9999;
 }
+
 main{
     padding-top: 10vh;
 }
+
 #contacto{
     background-color: #d5d6da;
 }
@@ -83,6 +80,10 @@ main{
     
 }
 .derecha{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     margin: auto;
     width: 50%;
     font-family: 'Roboto', sans-serif;
